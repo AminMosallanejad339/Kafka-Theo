@@ -1,6 +1,6 @@
 # Kafka Learning Path - From Beginner to Advanced
 
-![2025-08-26 043911](2025-08-26 043911.png)
+![2025-08-26 043911](2025-08-26 043911.png)https://stock.adobe.com/search?k=franz+kafka
 
 ![Kafka](https://img.shields.io/badge/Apache-Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Data Engineering](https://img.shields.io/badge/Data-Engineering-blue?style=for-the-badge)

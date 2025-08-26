@@ -1,6 +1,6 @@
 # Kafka Learning Path - From Beginner to Advanced
 
-![2025-08-26 043911](2025-08-26 043911.png)https://stock.adobe.com/search?k=franz+kafka
+![2025-08-26 043911](2025-08-26 043911.png)
 
 ![Kafka](https://img.shields.io/badge/Apache-Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Data Engineering](https://img.shields.io/badge/Data-Engineering-blue?style=for-the-badge)
@@ -198,22 +198,3 @@ You can track your progress through this learning path by checking off completed
   - [ ] Real-time Data Pipeline
   - [ ] Clickstream Analysis
   - [ ] Fraud Detection System
-
-## 🆘 Getting Help
-
-If you get stuck or have questions:
-
-1. Check the official Apache Kafka documentation
-2. Search existing issues in this repository
-3. Create a new issue with details about your problem
-4. Join Kafka communities on Reddit or Stack Overflow
-
-## 🔄 Updates
-
-This repository will be periodically updated with:
-- New Kafka features and best practices
-- Additional examples and projects
-- Improvements based on community feedback
-
-Star the repository to stay updated with changes!
-

@@ -1,6 +1,6 @@
 # Kafka Learning Path - From Beginner to Advanced
 
-![2025-08-26 043911](2025-08-26-043911.png)
+![2025-08-26 043911](2025-08-26 043911.png)
 
 ![Kafka](https://img.shields.io/badge/Apache-Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Data Engineering](https://img.shields.io/badge/Data-Engineering-blue?style=for-the-badge)
@@ -85,6 +85,8 @@ flowchart TB
     F --> F1["books.md"] & F2["courses.md"] & F3["blogs.md"] & F4["official-docs.md"]
 
 ```
+
+![2025-08-26-061100](2025-08-26-061100.png)
 
 ## Getting Started
 
@@ -198,5 +200,3 @@ You can track your progress through this learning path by checking off completed
   - [ ] Real-time Data Pipeline
   - [ ] Clickstream Analysis
   - [ ] Fraud Detection System
-
-
